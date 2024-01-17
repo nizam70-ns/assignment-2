@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 144rem;
-}.landing-page-design-tD2 {
+}.logo {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 {
+.logo .logo-section {
   box-sizing: border-box;
   padding: 5rem 12.7rem 10rem 13.5rem;
   width: 100%;
@@ -32,7 +32,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y {
+.logo .logo-section .logo-ns7yp {
   margin-bottom: 4.8rem;
   width: 100%;
   height: 4.8rem;
@@ -40,14 +40,14 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .group-40071-yvc {
+.logo .logo-section .logo-ns7yp .logo-ns7bp {
   margin-right: 40.4366rem;
   height: 100%;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .group-40071-yvc .group-40070-uZN {
+.logo .logo-section .logo-ns7yp .logo-ns7bp .group-40070-uZN {
   margin-right: 1.6626rem;
   width: 5.6008rem;
   height: 4.8rem;
@@ -55,7 +55,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .group-40071-yvc .hero-travel-Rnc {
+.logo .logo-section .logo-ns7yp .logo-ns7bp .hero-travel-Rnc {
   margin-bottom: 0rem;
   font-size: 3.6rem;
   font-weight: 800;
@@ -67,16 +67,15 @@ body {
   align-items: baseline;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .group-40071-yvc .hero-travel-Rnc .hero-travel-Rnc-sub-0 {
-}
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .group-40071-yvc .hero-travel-Rnc .hero-travel-Rnc-sub-1 {
+
+.logo .logo-section .logo-ns7yp .logo-ns7bp .hero-travel-Rnc .hero-travel-Rnc-sub-1 {
   font-size: 3.6rem;
   font-weight: 800;
   line-height: 1.255;
   color: #ff5400;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL {
+.logo .logo-section .logo-ns7yp .navigation {
   margin: 1.3rem 0rem 1.2rem 0rem;
   height: calc(100% - 2.5rem);
   display: flex;
@@ -84,7 +83,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL .home-QAg {
+.logo .logo-section .logo-ns7yp .navigation .home-QAg {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 700;
@@ -94,7 +93,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL .packages-KHe {
+.logo .logo-section .logo-ns7yp .navigation .packages-KHe {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -104,7 +103,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL .testimonial-Tek {
+.logo .logo-section .logo-ns7yp .navigation .testimonial-Tek {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -114,7 +113,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL .blog-oic {
+.logo .logo-section .logo-ns7yp .navigation .blog-oic {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -124,7 +123,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-nbjz-54Y .nav-text-JtL .contact-Mk8 {
+.logo .logo-section .logo-ns7yp .navigation .contact-Mk8 {
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -134,7 +133,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk {
+.logo .logo-section .group-13-Upk {
   margin: 0rem 0.8rem 10rem 0rem;
   box-sizing: border-box;
   padding: 10.6rem 18.5rem;
@@ -148,7 +147,7 @@ body {
   background: border-radius: 16px;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC {
+.logo .logo-section .group-13-Upk .group-12-9AC {
   width: 100%;
   height: 100%;
   align-items: center;
@@ -156,7 +155,7 @@ body {
   flex-direction: column;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .group-3-u9N {
+.logo .logo-section .group-13-Upk .group-12-9AC .group-3-u9N {
   margin: 0rem 7.65rem 4.8rem 7.65rem;
   width: calc(100% - 15.3rem);
   align-items: center;
@@ -164,7 +163,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .group-3-u9N .explore-your-travel-2jn {
+.logo .logo-section .group-13-Upk .group-12-9AC .group-3-u9N .explore-your-travel-2jn {
   margin-bottom: 2.3rem;
   font-size: 6.4rem;
   font-weight: 800;
@@ -174,7 +173,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .group-3-u9N .dolor-sit-amet-consectetur-nullam-suspendisse-vitae-ultricies-dolor-adipiscing-in-et-odio-enim-ac-quis-sapien-urna-eu-phasellus-hDe {
+.logo .logo-section .group-13-Upk .group-12-9AC .group-3-u9N .dolor-sit-amet-consectetur-nullam-suspendisse-vitae-ultricies-dolor-adipiscing-in-et-odio-enim-ac-quis-sapien-urna-eu-phasellus-hDe {
   max-width: 64.7rem;
   text-align: center;
   font-size: 1.6rem;
@@ -184,7 +183,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z {
   box-sizing: border-box;
   padding: 1.6rem;
   width: 100%;
@@ -196,7 +195,7 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-4-f3z {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-4-f3z {
   box-sizing: border-box;
   padding: 1.6rem 1.6rem 1.5rem 1.6rem;
   width: 17.4rem;
@@ -212,7 +211,7 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA {
   box-sizing: border-box;
   padding: 1.6rem 1.95rem 1.5rem 1.5rem;
   height: 100%;
@@ -222,7 +221,7 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA .when-Dzc {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA .when-Dzc {
   margin-right: 7.85rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -232,7 +231,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA .frame-wfi {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-HbA .frame-wfi {
   margin-bottom: 0.1rem;
   width: 1.5rem;
   height: 0.75rem;
@@ -240,7 +239,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA {
   box-sizing: border-box;
   padding: 1.6rem 1.95rem 1.5rem 1.5rem;
   height: 100%;
@@ -250,7 +249,7 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA .select-type-zdz {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA .select-type-zdz {
   margin-right: 3.95rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -260,7 +259,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA .frame-KRN {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-5-TPA .frame-KRN {
   margin-bottom: 0.1rem;
   width: 1.5rem;
   height: 0.75rem;
@@ -268,7 +267,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 {
   box-sizing: border-box;
   padding: 1.4rem 3.4rem 1.4rem 3.5rem;
   width: 17.4rem;
@@ -277,7 +276,7 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.3rem;
   width: 100%;
@@ -285,7 +284,7 @@ body {
   display: flex;
   align-items: center;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk .frame-eMA {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk .frame-eMA {
   margin: 0rem 1.1rem 0.1rem 0rem;
   width: 1.8001rem;
   height: 1.8001rem;
@@ -293,7 +292,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk .find-now-aEp {
+.logo .logo-section .group-13-Upk .group-12-9AC .frame-1-w7z .group-8-1Z6 .group-7-Wkk .find-now-aEp {
   text-align: center;
   font-size: 1.6rem;
   font-weight: 700;
@@ -303,7 +302,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA {
+.logo .logo-section .auto-group-g1ak-xmA {
   margin: 0rem 0.8rem 10rem 0rem;
   width: calc(100% - 0.8rem);
   height: 55rem;
@@ -311,19 +310,19 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN {
   margin-right: 7.3rem;
   width: 55.7rem;
   height: 100%;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU {
   margin-bottom: 3.2rem;
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .our-popular-tours-vLc {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .our-popular-tours-vLc {
   margin-bottom: 2.3rem;
   width: 100%;
   text-align: center;
@@ -335,7 +334,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-EcC {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-EcC {
   margin-bottom: 2.4rem;
   max-width: 55.7rem;
   font-size: 1.6rem;
@@ -345,14 +344,14 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi {
   margin-bottom: 2.4rem;
   row-gap: 1.6rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .tempus-euismod-lacus-mauris-dignissim-quis-in-ultrices-magna-nullam-odio-neque-diam-sociis-erat-at--evp {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .tempus-euismod-lacus-mauris-dignissim-quis-in-ultrices-magna-nullam-odio-neque-diam-sociis-erat-at--evp {
   max-width: 52.3rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -361,7 +360,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-YWQ {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-YWQ {
   max-width: 48.5rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -370,7 +369,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .accumsan-eget-et-turpis-praesent-lorem-egestas-enim-elit-bibendum-risus-at-in-DsS {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .group-14-WZi .accumsan-eget-et-turpis-praesent-lorem-egestas-enim-elit-bibendum-risus-at-in-DsS {
   max-width: 50.5rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -379,7 +378,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-id-bibendum-nunc-senectus-semper-tincidunt-FZE {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-15-PrU .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-id-bibendum-nunc-senectus-semper-tincidunt-FZE {
   max-width: 53rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -388,7 +387,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-8-JXW {
+.logo .logo-section .auto-group-g1ak-xmA .auto-group-1rbn-gBN .group-8-JXW {
   width: 17.4rem;
   height: 5.2rem;
   text-align: center;
@@ -404,7 +403,7 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-g1ak-xmA .rectangle-4-BLQ {
+.logo .logo-section .auto-group-g1ak-xmA .rectangle-4-BLQ {
   width: 54rem;
   height: 55rem;
   object-fit: cover;
@@ -412,7 +411,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-Jvp {
+.logo .logo-section .group-18-Jvp {
   margin: 0rem 28.65rem 4.8rem 27.75rem;
   width: calc(100% - 56.4rem);
   align-items: center;
@@ -420,7 +419,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-Jvp .choose-your-destination-2rp {
+.logo .logo-section .group-18-Jvp .choose-your-destination-2rp {
   margin: 0rem 0.1rem 2.3rem 0rem;
   text-align: center;
   font-size: 4rem;
@@ -431,7 +430,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-Jvp .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-k28 {
+.logo .logo-section .group-18-Jvp .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-k28 {
   max-width: 61.4rem;
   text-align: center;
   font-size: 1.6rem;
@@ -441,7 +440,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-h6e8-P56 {
+.logo .logo-section .auto-group-h6e8-P56 {
   margin: 0rem 0.8rem 2.4rem 0rem;
   width: calc(100% - 0.8rem);
   height: 30rem;
@@ -449,7 +448,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-h6e8-P56 .auto-group-cvgg-hrU {
+.logo .logo-section .auto-group-h6e8-P56 .auto-group-cvgg-hrU {
   margin-right: 2.4rem;
   width: 57.3rem;
   height: 100%;
@@ -471,7 +470,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-h6e8-P56 .auto-group-bdgg-9iU {
+.logo .logo-section .auto-group-h6e8-P56 .auto-group-bdgg-9iU {
   width: 57.3rem;
   height: 100%;
   text-align: center;
@@ -490,7 +489,7 @@ body {
   background-image: url('../assets/Rectangle\ 8.png');
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-lkmj-EE8 {
+.logo .logo-section .auto-group-lkmj-EE8 {
   margin: 0rem 0.8rem 2.4rem 0rem;
   height: 28.6rem;
   display: flex;
@@ -498,7 +497,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-lkmj-EE8 .auto-group-wavp-Lnx {
+.logo .logo-section .auto-group-lkmj-EE8 .auto-group-wavp-Lnx {
   width: 37.4rem;
   height: 100%;
   text-align: center;
@@ -519,7 +518,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-lkmj-EE8 .auto-group-fixl-pCL {
+.logo .logo-section .auto-group-lkmj-EE8 .auto-group-fixl-pCL {
   width: 47.4rem;
   height: 100%;
   text-align: center;
@@ -540,7 +539,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-lkmj-EE8 .auto-group-gtm2-3at {
+.logo .logo-section .auto-group-lkmj-EE8 .auto-group-gtm2-3at {
   width: 27.4rem;
   height: 100%;
   text-align: center;
@@ -561,7 +560,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-dzex-74x {
+.logo .logo-section .auto-group-dzex-74x {
   margin: 0rem 0.8rem 10rem 0rem;
   width: calc(100% - 0.8rem);
   height: 30rem;
@@ -569,7 +568,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-dzex-74x .auto-group-yfm6-pEG {
+.logo .logo-section .auto-group-dzex-74x .auto-group-yfm6-pEG {
   margin-right: 2.4rem;
   width: 47.3rem;
   height: 100%;
@@ -591,7 +590,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-dzex-74x .auto-group-zq9n-syE {
+.logo .logo-section .auto-group-dzex-74x .auto-group-zq9n-syE {
   width: 67.3rem;
   height: 100%;
   text-align: center;
@@ -612,7 +611,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-mHv {
+.logo .logo-section .group-18-mHv {
   margin: 0rem 28.65rem 4.8rem 27.75rem;
   width: calc(100% - 56.4rem);
   align-items: center;
@@ -620,7 +619,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-mHv .why-choose-us-TgY {
+.logo .logo-section .group-18-mHv .why-choose-us-TgY {
   margin-bottom: 2.3rem;
   text-align: center;
   font-size: 4rem;
@@ -631,7 +630,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-mHv .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-ZzU {
+.logo .logo-section .group-18-mHv .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-ZzU {
   max-width: 61.4rem;
   text-align: center;
   font-size: 1.6rem;
@@ -641,7 +640,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G {
+.logo .logo-section .auto-group-tmjl-T4G {
   margin: 0rem 0.8rem 2.4rem 0rem;
   width: calc(100% - 0.8rem);
   height: 28.4rem;
@@ -649,7 +648,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz {
   margin-right: 2.4rem;
   box-sizing: border-box;
   padding: 3.2rem 5.5rem 3.2rem 3.2rem;
@@ -660,13 +659,13 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .hotel-1-r6Q {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .hotel-1-r6Q {
   margin-bottom: 3.2rem;
   width: 6.4rem;
   height: 6.4rem;
@@ -674,13 +673,13 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC .handpicked-hotels-jvt {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC .handpicked-hotels-jvt {
   margin-bottom: 1.5rem;
   width: 100%;
   text-align: center;
@@ -692,7 +691,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-UNg {
+.logo .logo-section .auto-group-tmjl-T4G .group-23-Zsz .group-22-hDW .group-21-aYC .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-UNg {
   max-width: 48.6rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -701,7 +700,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa {
   box-sizing: border-box;
   padding: 3.2rem 5.5rem 3.2rem 3.2rem;
   width: 57.3rem;
@@ -711,13 +710,13 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-27-jxp {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-27-jxp {
   margin-bottom: 3.2rem;
   width: 6.4rem;
   height: 6.4rem;
@@ -725,13 +724,13 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn .world-class-service-FRN {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn .world-class-service-FRN {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -741,7 +740,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-aTe {
+.logo .logo-section .auto-group-tmjl-T4G .group-24-eRa .group-22-aa8 .group-21-5mn .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-aTe {
   max-width: 48.6rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -750,7 +749,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 {
+.logo .logo-section .group-25-CE8 {
   margin: 0rem 30.7rem 10rem 29.8rem;
   box-sizing: border-box;
   padding: 3.2rem 5.5rem 3.2rem 3.2rem;
@@ -761,13 +760,13 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 .group-22-3kY {
+.logo .logo-section .group-25-CE8 .group-22-3kY {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 .group-22-3kY .group-26-Brk {
+.logo .logo-section .group-25-CE8 .group-22-3kY .group-26-Brk {
   margin-bottom: 3.2rem;
   width: 6.4rem;
   height: 6.4rem;
@@ -775,13 +774,13 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 .group-22-3kY .group-21-XQp {
+.logo .logo-section .group-25-CE8 .group-22-3kY .group-21-XQp {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 .group-22-3kY .group-21-XQp .best-price-guarantee-6D2 {
+.logo .logo-section .group-25-CE8 .group-22-3kY .group-21-XQp .best-price-guarantee-6D2 {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -791,7 +790,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-25-CE8 .group-22-3kY .group-21-XQp .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-pPv {
+.logo .logo-section .group-25-CE8 .group-22-3kY .group-21-XQp .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-pPv {
   max-width: 48.6rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -800,7 +799,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-43N {
+.logo .logo-section .group-18-43N {
   margin: 0rem 28.65rem 4.8rem 27.75rem;
   width: calc(100% - 56.4rem);
   align-items: center;
@@ -808,7 +807,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-43N .deals-discounts-yw2 {
+.logo .logo-section .group-18-43N .deals-discounts-yw2 {
   margin-bottom: 2.3rem;
   text-align: center;
   font-size: 4rem;
@@ -819,7 +818,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-18-43N .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-JiQ {
+.logo .logo-section .group-18-43N .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-JiQ {
   max-width: 61.4rem;
   text-align: center;
   font-size: 1.6rem;
@@ -829,7 +828,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse {
+.logo .logo-section .group-39-Yse {
   margin: 0rem 0.8rem 2.4rem 0rem;
   box-sizing: border-box;
   padding: 5.6rem 5.6rem 5.5rem 53.5rem;
@@ -842,7 +841,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY {
+.logo .logo-section .group-39-Yse .group-38-rNY {
   box-sizing: border-box;
   padding: 5rem 7.7rem 5rem 5rem;
   width: 100%;
@@ -852,13 +851,13 @@ body {
   background-color: rgba(255, 255, 255, 0.8000000119);
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS {
   margin-bottom: 2.4rem;
   height: 2.4rem;
   display: flex;
@@ -866,7 +865,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.225rem;
   height: 100%;
@@ -874,7 +873,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU .frame-R4G {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU .frame-R4G {
   margin: 0rem 1.025rem 0.1rem 0rem;
   width: 1.95rem;
   height: 1.95rem;
@@ -882,7 +881,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU .day-6-night-woJ {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-32-gcU .day-6-night-woJ {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -891,7 +890,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.15rem;
   height: 100%;
@@ -899,7 +898,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC .frame-DF2 {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC .frame-DF2 {
   margin: 0rem 0.95rem 0.025rem 0rem;
   width: 2.1rem;
   height: 1.875rem;
@@ -908,7 +907,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC .max-10-iSg {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-33-fzC .max-10-iSg {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -917,7 +916,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.375rem;
   height: 100%;
@@ -925,7 +924,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 .frame-y7i {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 .frame-y7i {
   margin: 0rem 1.175rem 0.025rem 0rem;
   width: 1.65rem;
   height: 2.0248rem;
@@ -933,7 +932,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 .malaysia-J9z {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-35-9sS .group-34-3E4 .malaysia-J9z {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -942,14 +941,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp {
   width: 100%;
   display: flex;
   flex-direction: column;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .tour-to-satorini-nax {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .tour-to-satorini-nax {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -959,7 +958,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-hxp {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-hxp {
   margin-bottom: 1.6rem;
   max-width: 45.1rem;
   font-size: 1.6rem;
@@ -969,7 +968,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .price-1300-1500-nDa {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .price-1300-1500-nDa {
   margin-bottom: 2.3rem;
   font-size: 2rem;
   font-weight: 800;
@@ -979,18 +978,18 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t {
   width: 15rem;
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t .group-7-TKi {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t .group-7-TKi {
   width: 100%;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t .group-7-TKi .group-31-zqS {
+.logo .logo-section .group-39-Yse .group-38-rNY .group-37-o2t .group-36-qQp .group-8-v4t .group-7-TKi .group-31-zqS {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -1006,7 +1005,7 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 {
+.logo .logo-section .group-40-BQ8 {
   margin: 0rem 0.8rem 2.4rem 0rem;
   box-sizing: border-box;
   padding: 5.6rem 5.6rem 5.5rem 5.6rem;
@@ -1019,7 +1018,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA {
+.logo .logo-section .group-40-BQ8 .group-38-HTA {
   margin-right: 47.9rem;
   box-sizing: border-box;
   padding: 5rem 7.7rem 5rem 5rem;
@@ -1030,13 +1029,13 @@ body {
   background-color: rgba(255, 255, 255, 0.8000000119);
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr {
   margin-bottom: 2.4rem;
   height: 2.4rem;
   display: flex;
@@ -1044,7 +1043,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.225rem;
   height: 100%;
@@ -1052,7 +1051,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv .frame-1Gg {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv .frame-1Gg {
   margin: 0rem 1.025rem 0.1rem 0rem;
   width: 1.95rem;
   height: 1.95rem;
@@ -1060,7 +1059,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv .day-6-night-Vhe {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-32-WKv .day-6-night-Vhe {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1069,7 +1068,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.15rem;
   height: 100%;
@@ -1077,7 +1076,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ .frame-m9N {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ .frame-m9N {
   margin: 0rem 0.95rem 0.025rem 0rem;
   width: 2.1rem;
   height: 1.875rem;
@@ -1086,7 +1085,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ .max-10-tUt {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-33-RbJ .max-10-tUt {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1095,7 +1094,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.375rem;
   height: 100%;
@@ -1103,7 +1102,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa .frame-ABW {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa .frame-ABW {
   margin: 0rem 1.175rem 0.025rem 0rem;
   width: 1.65rem;
   height: 2.0248rem;
@@ -1111,7 +1110,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa .malaysia-HG8 {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-35-Amr .group-34-dBa .malaysia-HG8 {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1120,14 +1119,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 {
   width: 100%;
   display: flex;
   flex-direction: column;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .tour-to-satorini-NHa {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .tour-to-satorini-NHa {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -1137,7 +1136,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-5St {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-5St {
   margin-bottom: 1.6rem;
   max-width: 45.1rem;
   font-size: 1.6rem;
@@ -1147,7 +1146,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .price-1300-1500-Ks2 {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .price-1300-1500-Ks2 {
   margin-bottom: 2.3rem;
   font-size: 2rem;
   font-weight: 800;
@@ -1157,18 +1156,18 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp {
   width: 15rem;
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp .group-7-pHz {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp .group-7-pHz {
   width: 100%;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp .group-7-pHz .group-31-PM6 {
+.logo .logo-section .group-40-BQ8 .group-38-HTA .group-37-owJ .group-36-d56 .group-8-4Jp .group-7-pHz .group-31-PM6 {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -1184,7 +1183,7 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 {
+.logo .logo-section .group-41-Z96 {
   margin: 0rem 0.8rem 4.8rem 0rem;
   box-sizing: border-box;
   padding: 5.6rem 5.6rem 5.5rem 53.5rem;
@@ -1197,7 +1196,7 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A {
+.logo .logo-section .group-41-Z96 .group-38-U1A {
   box-sizing: border-box;
   padding: 5rem 7.7rem 5rem 5rem;
   width: 100%;
@@ -1207,13 +1206,13 @@ body {
   background-color: rgba(255, 255, 255, 0.8000000119);
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL {
   margin-bottom: 2.4rem;
   height: 2.4rem;
   display: flex;
@@ -1221,7 +1220,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.225rem;
   height: 100%;
@@ -1229,7 +1228,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg .frame-CrG {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg .frame-CrG {
   margin: 0rem 1.025rem 0.1rem 0rem;
   width: 1.95rem;
   height: 1.95rem;
@@ -1237,7 +1236,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg .day-6-night-jrC {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-32-Ttg .day-6-night-jrC {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1246,7 +1245,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.15rem;
   height: 100%;
@@ -1254,7 +1253,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc .frame-QxL {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc .frame-QxL {
   margin: 0rem 0.95rem 0.025rem 0rem;
   width: 2.1rem;
   height: 1.875rem;
@@ -1263,7 +1262,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc .max-10-MMn {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-33-sSc .max-10-MMn {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1272,7 +1271,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN {
   box-sizing: border-box;
   padding: 0.2rem 0rem 0.1rem 0.375rem;
   height: 100%;
@@ -1280,7 +1279,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN .frame-pmA {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN .frame-pmA {
   margin: 0rem 1.175rem 0.025rem 0rem;
   width: 1.65rem;
   height: 2.0248rem;
@@ -1288,7 +1287,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN .malaysia-KT2 {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-35-XEL .group-34-6KN .malaysia-KT2 {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.255;
@@ -1297,14 +1296,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r {
   width: 100%;
   display: flex;
   flex-direction: column;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .tour-to-satorini-nbW {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .tour-to-satorini-nbW {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -1314,7 +1313,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-89a {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-89a {
   margin-bottom: 1.6rem;
   max-width: 45.1rem;
   font-size: 1.6rem;
@@ -1324,7 +1323,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .price-1300-1500-1DN {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .price-1300-1500-1DN {
   margin-bottom: 2.3rem;
   font-size: 2rem;
   font-weight: 800;
@@ -1334,18 +1333,18 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz {
   width: 15rem;
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz .group-7-tHA {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz .group-7-tHA {
   width: 100%;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz .group-7-tHA .group-31-TLG {
+.logo .logo-section .group-41-Z96 .group-38-U1A .group-37-yTi .group-36-S1r .group-8-8Hz .group-7-tHA .group-31-TLG {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -1361,19 +1360,19 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-8-DCx {
+.logo .logo-section .group-8-DCx {
   margin: 0rem 48.8rem 10rem 48rem;
   width: calc(100% - 96.8rem);
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-8-DCx .group-7-jBJ {
+.logo .logo-section .group-8-DCx .group-7-jBJ {
   width: 100%;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .group-8-DCx .group-7-jBJ .group-42-VwA {
+.logo .logo-section .group-8-DCx .group-7-jBJ .group-42-VwA {
   width: 100%;
   height: 100%;
   text-align: center;
@@ -1389,7 +1388,7 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU {
+.logo .logo-section .auto-group-hxrv-MiU {
   margin: 0rem 0.8rem 10rem 0rem;
   width: calc(100% - 0.8rem);
   height: 42.4rem;
@@ -1397,14 +1396,14 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L {
   margin: 0rem 2.8rem 0rem 0rem;
   width: 53.2rem;
   height: calc(100% - 0rem);
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L .a-simple-perfect-place-to-get-lost-CDJ {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L .a-simple-perfect-place-to-get-lost-CDJ {
   margin-bottom: 2.4rem;
   max-width: 44.1rem;
   font-size: 4rem;
@@ -1413,7 +1412,7 @@ body {
   color: #131318;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-7LG {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-7LG {
   margin-bottom: 2.4rem;
   max-width: 52.6rem;
   font-size: 1.6rem;
@@ -1422,7 +1421,7 @@ body {
   color: #5a5a5d;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-aUk {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-aUk {
   margin-bottom: 1.6rem;
   max-width: 50.4rem;
   font-size: 1.6rem;
@@ -1431,7 +1430,7 @@ body {
   color: #131318;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-dxp {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-dxp {
   margin-bottom: 3.2rem;
   max-width: 50.4rem;
   font-size: 1.6rem;
@@ -1440,7 +1439,7 @@ body {
   color: #131318;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-43-H6L .group-42-YK6 {
+.logo .logo-section .auto-group-hxrv-MiU .group-43-H6L .group-42-YK6 {
   width: 17.4rem;
   height: 5.2rem;
   text-align: center;
@@ -1456,14 +1455,14 @@ body {
   background-color: #ff5400;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS {
   margin-right: 0rem;
   width: 61rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .rectangle-10-juN {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .rectangle-10-juN {
   width: 61rem;
   height: 42.4rem;
   position: absolute;
@@ -1473,7 +1472,7 @@ body {
   vertical-align: top;
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .rectangle-11-sVn {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .rectangle-11-sVn {
   width: 61rem;
   height: 42.4rem;
   position: absolute;
@@ -1482,7 +1481,7 @@ body {
   background: linear-gradient(180deg, #131318 -31.96%, rgba(19, 19, 24, 0) 100%);
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J {
   width: 56.2rem;
   height: 0.4rem;
   position: absolute;
@@ -1490,30 +1489,30 @@ body {
   top: 39.5rem;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv {
   width: 100%;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa {
   width: 100%;
   height: 100%;
   background-color: rgba(255, 255, 255, 0.3000000119);
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa .group-7-yx8 {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa .group-7-yx8 {
   margin-right: 47.5rem;
   width: 8.7rem;
   height: 100%;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa .group-7-yx8 .rectangle-5-jgQ {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-39464-a9J .group-8-hDv .group-40061-3oa .group-7-yx8 .rectangle-5-jgQ {
   width: 100%;
   height: 0.4rem;
   background-color: #ffffff;
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ {
   width: 6.6rem;
   height: 2.4rem;
   position: absolute;
@@ -1522,7 +1521,7 @@ body {
   display: flex;
   align-items: center;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ .group-39472-ZvL {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ .group-39472-ZvL {
   margin-right: 1.2rem;
   width: 2.4rem;
   height: 2.4rem;
@@ -1530,7 +1529,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ .item-000-hWk {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40062-2vQ .item-000-hWk {
   margin-top: 0.1rem;
   text-align: center;
   font-size: 1.4rem;
@@ -1541,7 +1540,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz {
   box-sizing: border-box;
   padding-right: 1.125rem;
   width: 10.4rem;
@@ -1552,7 +1551,7 @@ body {
   display: flex;
   align-items: center;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz .group-39481-Y1a {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz .group-39481-Y1a {
   margin-right: 2.725rem;
   width: 6.4rem;
   height: 2.4rem;
@@ -1560,14 +1559,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz .frame-5GQ {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .group-40063-Djz .frame-5GQ {
   width: 0.15rem;
   height: 1.35rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-hxrv-MiU .group-40089-CuS .watch-our-mountain-in-bangladesh-oy6 {
+.logo .logo-section .auto-group-hxrv-MiU .group-40089-CuS .watch-our-mountain-in-bangladesh-oy6 {
   width: 27.5rem;
   height: 7.2rem;
   position: absolute;
@@ -1580,7 +1579,7 @@ body {
   color: #ffffff;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE {
+.logo .logo-section .auto-group-u9rc-4PE {
   margin: 0rem 0.752rem 0rem 0rem;
   width: calc(100% - 0.7517rem);
   height: 42.2rem;
@@ -1588,7 +1587,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z {
   margin-right: 2.4rem;
   box-sizing: border-box;
   padding: 4rem 4.1rem 4rem 4rem;
@@ -1601,13 +1600,13 @@ body {
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk {
   margin: 0rem 5.6rem 2.4rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk .newsletter-DvL {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk .newsletter-DvL {
   margin-bottom: 1.5rem;
   font-size: 2.4rem;
   font-weight: 800;
@@ -1617,7 +1616,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk .get-your-daily-dose-of-travel-news-tips-sign-up-today-ZUQ {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-40066-Uxk .get-your-daily-dose-of-travel-news-tips-sign-up-today-ZUQ {
   max-width: 33.7rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -1626,21 +1625,21 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .line-1-5Sk {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .line-1-5Sk {
   margin-bottom: 2.3rem;
   width: 100%;
   height: 0.1rem;
   background-color: rgba(19, 19, 24, 0.1000000015);
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-10-RWc {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-10-RWc {
   margin-bottom: 1.6rem;
   width: 100%;
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-10-RWc .group-5-BVn {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-10-RWc .group-5-BVn {
   box-sizing: border-box;
   padding: 1.6rem 2rem 1.5rem 2rem;
   width: 100%;
@@ -1654,14 +1653,14 @@ body {
   background-color: rgba(19, 19, 24, 0.0500000007);
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-40067-zy2 {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-40067-zy2 {
   margin-bottom: 2.4rem;
   width: 100%;
   height: 5.2rem;
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-40067-zy2 .group-5-9qv {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-40067-zy2 .group-5-9qv {
   box-sizing: border-box;
   padding: 1.6rem 2rem 1.5rem 2rem;
   width: 100%;
@@ -1675,7 +1674,7 @@ body {
   background-color: rgba(19, 19, 24, 0.0500000007);
   border-radius: 0.8rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .group-40093-z1z .group-42-dWC {
+.logo .logo-section .auto-group-u9rc-4PE .group-40093-z1z .group-42-dWC {
   width: 100%;
   height: 5.2rem;
   text-align: center;
@@ -1692,13 +1691,13 @@ body {
   border-radius: 0.8rem;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 {
   width: 67.2483rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 .rectangle-8-eRJ {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 .rectangle-8-eRJ {
   width: 67.2rem;
   height: 42.2rem;
   position: absolute;
@@ -1708,7 +1707,7 @@ body {
   vertical-align: top;
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 {
   box-sizing: border-box;
   padding: 5.626rem 4.466rem 5.626rem 5.682rem;
   width: 34.5483rem;
@@ -1719,12 +1718,12 @@ body {
   background-color: #ff5400;
   border-radius: 1.6rem;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp {
   width: 100%;
   height: 5.1862rem;
   position: relative;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp .travelcom-2we {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp .travelcom-2we {
   width: 11.9rem;
   height: 3.1rem;
   position: absolute;
@@ -1738,7 +1737,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   white-space: nowrap;
 }
-.landing-page-design-tD2 .auto-group-x8p6-u88 .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp .save-up-to-70-JuA {
+.logo .logo-section .auto-group-u9rc-4PE .auto-group-qet4-th2 .group-40069-Bg8 .group-40068-Vgp .save-up-to-70-JuA {
   width: 24.4rem;
   height: 4.1rem;
   position: absolute;
@@ -1751,7 +1750,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   white-space: nowrap;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk {
+.logo .auto-group-ukzp-mnk {
   box-sizing: border-box;
   padding: 11rem 6rem 10.9rem 6rem;
   width: 100%;
@@ -1761,14 +1760,14 @@ body {
   background-color: rgba(19, 19, 24, 0.0500000007);
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .group-40072-UhA {
+.logo .auto-group-ukzp-mnk .group-40072-UhA {
   margin: 0rem 54.733rem 1.4rem 54rem;
   width: calc(100% - 108.7327rem);
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .group-40072-UhA .group-40070-1h6 {
+.logo .auto-group-ukzp-mnk .group-40072-UhA .group-40070-1h6 {
   margin-right: 1.6rem;
   width: 4.6673rem;
   height: 4rem;
@@ -1776,7 +1775,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C {
+.logo .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C {
   margin-top: 0rem;
   font-size: 3.2rem;
   font-weight: 800;
@@ -1788,21 +1787,21 @@ body {
   align-items: baseline;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C .hero-travel-A4C-sub-0 {
+.logo .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C .hero-travel-A4C-sub-0 {
   font-size: 3.2rem;
   font-weight: 800;
   line-height: 1.255;
   color: #121218;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C .hero-travel-A4C-sub-1 {
+.logo .auto-group-ukzp-mnk .group-40072-UhA .hero-travel-A4C .hero-travel-A4C-sub-1 {
   font-size: 3.2rem;
   font-weight: 800;
   line-height: 1.255;
   color: #ff5400;
   font-family: Mulish, 'Source Sans Pro';
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .lorem-ipsum-dolor-sit-amet-consectetur-nulla-sit-viverra-morbi-vitae-blandit-orci-potenti-vulputate-leo-erat-maecenas-vitae-elementum-ultricies-nullam-gqA {
+.logo .auto-group-ukzp-mnk .lorem-ipsum-dolor-sit-amet-consectetur-nulla-sit-viverra-morbi-vitae-blandit-orci-potenti-vulputate-leo-erat-maecenas-vitae-elementum-ultricies-nullam-gqA {
   margin: 0rem 0.1rem 3.2rem 0rem;
   max-width: 75rem;
   text-align: center;
@@ -1813,7 +1812,7 @@ body {
   font-family: Mulish, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .auto-group-q2sy-imr {
+.logo .auto-group-ukzp-mnk .auto-group-q2sy-imr {
   margin-bottom: 5rem;
   width: 132rem;
   height: 2.4rem;
@@ -1822,14 +1821,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .line-2-FWt {
+.logo .auto-group-ukzp-mnk .line-2-FWt {
   margin: 0rem 22.4rem 4.9rem 22.4rem;
   width: calc(100% - 44.8rem);
   height: 0.1rem;
   background-color: rgba(19, 19, 24, 0.1000000015);
   flex-shrink: 0;
 }
-.landing-page-design-tD2 .auto-group-ukzp-mnk .all-rights-reserved-9sA {
+.logo .auto-group-ukzp-mnk .all-rights-reserved-9sA {
   margin-right: 0.1rem;
   font-size: 1.6rem;
   font-weight: 300;
